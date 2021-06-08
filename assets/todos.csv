@@ -1,0 +1,101 @@
+ID,DESCRIPTION,COMPLETED,ASIGNEE,CREATED_BY
+1,Nullam ut nisi a odio,N,10,8
+2,nunc. Quisque ornare tortor,Y,5,5
+3,"mauris, aliquam eu, accumsan sed,",Y,7,2
+4,augue scelerisque mollis. Phasellus libero,Y,3,5
+5,"eu, euismod ac, fermentum vel, mauris. Integer sem elit,",N,1,10
+6,Nam consequat dolor vitae dolor. Donec fringilla. Donec,Y,8,1
+7,enim. Etiam imperdiet dictum,N,2,10
+8,sed tortor.,Y,4,3
+9,Duis,Y,1,2
+10,"Nunc mauris sapien, cursus in, hendrerit consectetuer, cursus",Y,3,2
+11,"urna, nec luctus felis",Y,2,1
+12,morbi tristique senectus et netus et malesuada fames ac,Y,1,4
+13,"dis parturient montes,",N,1,8
+14,"non, bibendum sed, est. Nunc laoreet lectus quis",N,8,6
+15,"a purus. Duis elementum, dui quis accumsan convallis, ante lectus",Y,6,6
+16,Aliquam rutrum lorem ac,Y,5,5
+17,"ante, iaculis nec, eleifend non, dapibus",Y,3,3
+18,dictum sapien. Aenean massa. Integer vitae nibh. Donec est,N,6,2
+19,nascetur,Y,9,1
+20,"mollis nec, cursus a, enim. Suspendisse aliquet,",N,5,8
+21,semper. Nam tempor diam dictum sapien. Aenean massa.,N,6,1
+22,"ultrices,",N,3,2
+23,"nonummy ac, feugiat non, lobortis quis, pede. Suspendisse dui. Fusce",Y,1,8
+24,"tempus scelerisque, lorem ipsum sodales purus, in molestie tortor",N,4,10
+25,sollicitudin adipiscing ligula. Aenean gravida nunc sed,Y,9,9
+26,convallis dolor. Quisque tincidunt pede,Y,1,4
+27,ante ipsum primis in faucibus orci luctus et ultrices,N,6,1
+28,"Sed malesuada augue ut lacus. Nulla tincidunt, neque vitae",Y,1,5
+29,Proin,Y,4,1
+30,"Nam ligula elit, pretium et, rutrum non, hendrerit id,",N,7,5
+31,feugiat tellus lorem eu metus. In lorem. Donec,N,6,1
+32,leo.,Y,5,6
+33,tincidunt tempus risus. Donec egestas.,N,1,6
+34,netus et malesuada,N,6,4
+35,"aliquam eu, accumsan sed, facilisis vitae, orci. Phasellus dapibus",Y,1,4
+36,"eget, venenatis a, magna. Lorem ipsum dolor",N,1,10
+37,massa rutrum magna. Cras convallis convallis,Y,5,4
+38,"pharetra, felis eget varius",Y,5,4
+39,orci. Phasellus dapibus quam quis,N,1,4
+40,"Suspendisse dui. Fusce diam nunc, ullamcorper eu, euismod ac, fermentum",Y,1,4
+41,"Quisque libero lacus, varius et,",N,4,9
+42,neque. Morbi quis urna. Nunc quis arcu,N,5,2
+43,vel pede blandit congue. In scelerisque scelerisque dui. Suspendisse ac,N,7,1
+44,Integer vitae nibh.,N,10,9
+45,Sed molestie. Sed id,N,9,9
+46,sapien molestie,N,2,4
+47,"mi pede, nonummy ut, molestie",Y,10,2
+48,"fermentum risus, at fringilla purus",N,10,9
+49,aliquet molestie tellus. Aenean egestas hendrerit neque.,N,9,2
+50,"leo, in lobortis tellus justo sit amet nulla. Donec non",N,6,9
+51,"vitae,",Y,3,5
+52,"laoreet ipsum. Curabitur consequat, lectus sit amet luctus",Y,8,1
+53,"adipiscing fringilla, porttitor vulputate, posuere",N,7,7
+54,"risus. In mi pede, nonummy ut,",N,6,9
+55,sit amet nulla.,Y,3,9
+56,ante ipsum primis in faucibus,Y,10,5
+57,Integer aliquam adipiscing lacus. Ut,Y,3,1
+58,porttitor interdum. Sed auctor,N,1,10
+59,"imperdiet, erat nonummy ultricies ornare, elit elit fermentum risus,",Y,5,4
+60,"natoque penatibus et magnis dis parturient montes,",Y,10,9
+61,ipsum primis in,Y,1,5
+62,Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada,Y,10,9
+63,magna. Duis dignissim tempor,N,5,6
+64,ornare tortor,Y,2,8
+65,"egestas, urna justo faucibus lectus, a sollicitudin orci sem",Y,4,10
+66,auctor. Mauris vel turpis.,Y,4,10
+67,"Cras vehicula aliquet libero. Integer in magna. Phasellus dolor elit,",N,8,9
+68,"est mauris,",Y,7,9
+69,Nulla eu neque pellentesque massa lobortis ultrices. Vivamus,N,3,4
+70,"erat nonummy ultricies ornare, elit elit",N,9,7
+71,erat. Sed nunc,Y,10,7
+72,turpis egestas. Aliquam fringilla cursus purus. Nullam,N,3,10
+73,"mi fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet,",Y,5,4
+74,non enim commodo hendrerit. Donec porttitor tellus non,N,6,10
+75,"litora torquent per conubia nostra,",Y,6,10
+76,"dis parturient montes, nascetur ridiculus mus.",Y,5,2
+77,tincidunt,Y,10,4
+78,"sociis natoque penatibus et magnis dis parturient montes, nascetur",N,9,1
+79,neque. Nullam ut nisi a odio,N,4,1
+80,tortor. Integer aliquam adipiscing,Y,3,6
+81,arcu. Aliquam ultrices iaculis odio. Nam,Y,7,7
+82,"dui. Fusce aliquam, enim nec tempus scelerisque, lorem ipsum",Y,10,9
+83,In,N,4,9
+84,"eu, ultrices sit",N,9,5
+85,nunc,N,7,4
+86,"Mauris vestibulum, neque sed dictum eleifend,",Y,4,3
+87,Nullam lobortis quam a felis ullamcorper viverra. Maecenas,N,9,3
+88,turpis. Nulla aliquet. Proin velit. Sed,Y,1,6
+89,"Etiam laoreet,",Y,4,7
+90,Curabitur massa. Vestibulum accumsan neque,N,2,9
+91,enim. Nunc ut,Y,3,9
+92,"diam nunc, ullamcorper eu, euismod ac,",Y,5,2
+93,"Aliquam tincidunt, nunc ac mattis ornare,",Y,5,7
+94,"eu,",N,4,6
+95,Morbi quis urna. Nunc quis arcu,N,3,9
+96,ultricies dignissim lacus. Aliquam rutrum lorem,N,6,2
+97,Nunc quis arcu vel quam dignissim pharetra.,Y,8,6
+98,metus. In nec orci. Donec nibh. Quisque nonummy ipsum non,N,7,2
+99,"odio. Etiam ligula tortor, dictum eu, placerat eget, venenatis",N,2,1
+100,ligula. Aenean gravida nunc sed pede. Cum,N,7,5
