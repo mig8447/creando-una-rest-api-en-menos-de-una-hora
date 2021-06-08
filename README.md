@@ -129,9 +129,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/43.png)
 2. Se abrirá un panel del lado derecho que nos mostrará distintas tabs en vertical con las acciones que podemos realizar. Por defecto, la tab **GET All** esta seleccionada. Haz click en el botón con el icono de copiar
     ![](./assets/44.png)
-3. Abre una terminal, en Windows puedes usar **Git Bash**, luego pega el comando que copiaste en la terminal, si tienes `jq` instalado, puedes añadir 
+3. Abre una terminal, en Windows puedes usar **Git Bash**, luego pega el comando que copiaste en la terminal, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación:
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
@@ -139,9 +139,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/46.png)
 4. Regresa a Database Actions, selecciona la tab **GET Simple** y rellena el campo de **id** con `1`, luego haz click en el botón con el icono de copiar
     ![](./assets/47.png)
-5. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir 
+5. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación: 
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
@@ -149,9 +149,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/48.png)
 6. Regresa a Database Actions, selecciona la tab **POST**, rellena el campo de **id** con `20` (Ya que no existe en nuestro data set), después rellena los demás campos y haz click en el botón con el icono de copiar
     ![](./assets/49.png)
-7. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir 
+7. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación: 
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
@@ -159,9 +159,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/50.png)
 8. Regresa a Database Actions, selecciona la tab **PUT** y cambia el campo de **email** con un valor distinto al actual, luego haz click en el botón con el icono de copiar
     ![](./assets/51.png)
-9. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir 
+9. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación: 
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
@@ -169,9 +169,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/52.png)
 10. Regresa a Database Actions, selecciona la tab **DELETE** y asegurate que el campo de **id** contenga el valor `20`, luego haz click en el botón con el icono de copiar
     ![](./assets/53.png)
-11. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir 
+11. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación: 
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
@@ -181,9 +181,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/55.png)
 13. El panel de cURL se abrirá en la tab **GET All**, haz click en el botón con el icono de copiar
     ![](./assets/56.png)
-14. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir 
+14. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación: 
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
@@ -191,9 +191,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/57.png)
 15. Regresa a Database Actions, selecciona la tab **GET Simple** y rellena el campo de **id** con `1`, luego haz click en el botón con el icono de copiar
     ![](./assets/58.png)
-16. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir 
+16. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación: 
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
@@ -201,9 +201,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/59.png)
 17. Regresa a Database Actions, selecciona la tab **POST**, rellena el campo de **id** con `110` (Ya que no existe en nuestro data set), el campo **asignee** con `1` y el campo **created_by** con `1`, después rellena los demás campos y haz click en el botón con el icono de copiar
     ![](./assets/60.png)
-18. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir 
+18. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación: 
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
@@ -211,9 +211,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/61.png)
 19.  Regresa a Database Actions, selecciona la tab **PUT** y cambia el campo de **completed** con un valor distinto al actual, luego haz click en el botón con el icono de copiar
     ![](./assets/62.png)
-20. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir 
+20. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación: 
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
@@ -221,9 +221,9 @@ En este documento proporcionaremos dos archivos con datos de ejemplo para genera
     ![](./assets/63.png)
 21. Regresa a Database Actions, selecciona la tab **DELETE** y asegurate que el campo de **id** contenga el valor `110`, luego haz click en el botón con el icono de copiar
     ![](./assets/64.png)
-22. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir 
+22. En la terminal, pega el comando que copiaste, si tienes `jq` instalado, puedes añadir ` | jq` al comando pegado como se muestra a continuación: 
     ```sh
-    | jq
+    <COMANDO_PEGADO> | jq
     ```
     para formatear el JSON que recibamos del endpoint, de otro modo el JSON aparecerá sin espacios u otro separador.
 
